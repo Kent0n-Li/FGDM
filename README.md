@@ -1,4 +1,4 @@
-# [Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models](https://ieeexplore.ieee.org/document/10287612)
+# [Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models](https://ieeexplore.ieee.org/document/10287612) (IEEE TMI)
 
 
 ![image](https://github.com/Kent0n-Li/FGDM/blob/main/fig/fig1.png)
