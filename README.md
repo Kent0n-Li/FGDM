@@ -1,8 +1,8 @@
 # Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models
 
 
-![image](https://github.com/Kent0n-Li/FGDM/blob/main/img/fig1.png)
-![image](https://github.com/Kent0n-Li/FGDM/blob/main/img/fig2.png)
+![image](https://github.com/Kent0n-Li/FGDM/blob/main/fig/fig1.png)
+![image](https://github.com/Kent0n-Li/FGDM/blob/main/fig/fig1.png)
 
 ```bash
 python main.py
