@@ -2,7 +2,7 @@
 
 
 ![image](https://github.com/Kent0n-Li/FGDM/blob/main/fig/fig1.png)
-![image](https://github.com/Kent0n-Li/FGDM/blob/main/fig/fig1.png)
+![image](https://github.com/Kent0n-Li/FGDM/blob/main/fig/fig2.png)
 
 ```bash
 python main.py
